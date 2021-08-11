@@ -1,0 +1,12 @@
+.Header {
+	display: flex;
+    justify-content: center;
+    color:darkcyan;
+}
+
+.Logo {
+    background-color: mediumaquamarine;
+    border-radius: 40px;
+    padding: 2px;
+    margin: 2px;
+}

@@ -1,0 +1,25 @@
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+}
+
+a, a:hover, a:link, a:visited {
+    color: black;
+}
+
+.Box {
+    display: inline-block;
+    text-align: left;
+    border: 1px solid black;
+    background-color:lightsteelblue;
+    padding: 0 10px;
+    margin: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    justify-content: center;
+}

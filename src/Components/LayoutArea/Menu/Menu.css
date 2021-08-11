@@ -1,0 +1,11 @@
+.Menu > nav {
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5px;
+    padding: 22px;
+}
+
+.Menu .active {
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.Layout {
+    height: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 10% 5% 80% 5%;
+}
+
+.Layout > header, .Layout > aside, .Layout > footer {
+    grid-column: span 6;
+}
+
+.Layout > main {
+    grid-column: span 6;
+    justify-content: center;
+    padding: 10px;
+}

@@ -1,0 +1,11 @@
+.AdminVacationList {
+    margin-top: 20px;
+    height: 75vh;
+    overflow: auto;
+}
+
+.NewVacation {
+    position: absolute;
+    left: 1%;
+    top: 14%;
+}

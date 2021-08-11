@@ -1,0 +1,25 @@
+.AddVacation {
+    width: 300px;
+    box-sizing: border-box;
+    margin: 25px 0;
+}
+
+.AddVacation label {
+    margin-bottom: 0 20px;
+}
+
+.AddVacation input {
+	width: 280px;
+    box-sizing: border-box;
+}
+
+.AddVacation button {
+	width: 280px;
+    margin: 20px 0;
+}
+
+.AddVacation span {
+    color: red;
+    margin: 0 20px;
+    position: absolute;
+}
